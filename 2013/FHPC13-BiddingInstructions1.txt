@@ -1,0 +1,36 @@
+Dear programme committee,
+
+The FHPC deadline has now passed, and we have closed the submission
+page.  We received a total of 14 valid submissions (plus a few "test"
+submissions).
+
+The next step from here is your main role, refereeing the papers.
+We will assign 3 referees to each paper before Sunday, taking into
+consideration your preferences and conflicts.
+
+At this point, we would like to ask you to make bids for the papers
+you would like to referee, and - more important - to mark potential
+conflicts of interest (ACM defines criteria for such conflicts as (1)
+having co-authored papers with one of the authors recently, (2) having
+the same affiliation as one of the authors, or (3) being relative to
+one of the authors)
+
+Please place your bids *before Saturday*, Proceeding as follows:
+
+o log in to Easychair
+  https://www.easychair.org/conferences/?conf=fhpc2013
+  You should see the FHPC main page.
+o in the menu on top, select "paper bidding"
+o indicate your preferences to referee or not referee particular
+  submissions, and your conflicts of interest. You won't be able to
+  see submissions with conflict of interest later. Some obvious
+  conflicts have already been marked by us.
+o Save your input by clicking "save" to leave the page.
+
+We will get back to you with paper assignments on Monday (latest).
+
+Best wishes,
+Jost and Umut (Programme co-chairs)
+
+PS: This is also a good moment to think about potential invited
+talks. Your suggestions for invited speakers are most welcome!

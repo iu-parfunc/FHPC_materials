@@ -1,0 +1,117 @@
+=====================================================================
+                            CALL FOR PAPERS
+
+                               FHPC 2013
+
+                    The 2nd ACM SIGPLAN Workshop on
+                 Functional High-Performance Computing
+
+                          Boston, Massachusets
+                           September 23, 2013
+
+                   http://www.hiperfit.dk/fhpc13.html
+
+Co-located with the International Conference on Functional Programming
+                               (ICFP 2013)
+
+Submission Deadline: June 14, 2013 (anywhere on earth)
+=====================================================================
+
+The FHPC workshop aims at bringing together researchers exploring uses
+of functional (or more generally, declarative or high-level) programming
+technology in application domains where large-scale computations arise
+naturally and high performance is essential. Such computations would
+typically -- but not necessarily -- involve execution on highly parallel
+systems ranging from multi-core multi-processor systems to graphics
+accelerators (GPGPUs), reconfigurable hardware (FPGAs), large-scale
+compute clusters or any combination thereof. It is becoming apparent
+that radically new and well founded methodologies for programming such
+systems are required to address their inherent complexity and to
+reconcile execution performance with programming productivity.
+
+The aim of the meeting is to enable sharing of results, experiences,
+and novel ideas about how high-level, declarative specifications of
+computationally challenging problems can serve as highly transparent,
+maintainable, and portable code that approaches (or even exceeds) the
+performance of machine-oriented imperative implementations.
+
+Each FHPC workshop proposes a particular theme for applications where
+high-performance computing and/or functional programming technology
+can be applied. For FHPC 2013, the theme is "Large-Scale Simulation",
+traditionally one of the main driving forces behind supercomputing.
+A large fraction of compute cycles in supercomputers worldwide is spent
+on simulation tasks, for various engineering tasks, drug design and
+other medical simulations, and in different natural science domains.
+Declarative languages have potential to radically change development
+practice and workflow for simulation software in these areas.
+Hence, we particularly encourage submission of application-oriented
+contributions in the area of simulation.
+As a general rule, while proposing the theme, the workshop welcomes
+submissions from all relevant application domains as well as those
+describing general work on the theory and practice of declarative
+high-performance computing.
+
+Proceedings:
+============
+
+Accepted papers will be published by the ACM and will appear in the
+ACM Digital Library.
+
+* Submission Deadline: 14 June 2013 (anywhere on earth)
+* Author Notification: 11 July 2013
+* Final Papers Due   : 25 July 2013
+
+Submitted papers must be in portable document format (PDF), formatted
+according to the ACM SIGPLAN style guidelines (2 column, 9pt format).
+See http://www.sigplan.org/authorInformation.htm for more information
+and style files. The page limit is 12 pages. Submission deadlines and
+page limit are firm.
+
+Contributions to FHPC 2013 should be submitted via Easychair, under
+https://www.easychair.org/conferences/?conf=fhpc2013. 
+The submission site is now open.
+
+The FHPC workshops adhere to the ACM SIGPLAN policies regarding
+programme committee contributions and republication. Any paper
+submitted must adhere to ACM SIGPLAN's republication policy. PC member
+submissions are welcome, but will be reviewed to a higher standard.
+http://www.sigplan.org/Resources/Policies/Review
+http://www.sigplan.org/Resources/Policies/Republication
+
+Travel Support:
+===============
+
+Student attendees with accepted papers can apply for a SIGPLAN PAC
+grant to help cover travel expenses. PAC also offers other support, such
+as for child-care expenses during the meeting or for travel costs for
+companions of SIGPLAN members with physical disabilities, as well as for
+travel from locations outside of North America and Europe. For details
+on the PAC programme, see its web page (http://www.sigplan.org/PAC.htm).
+
+Programme Committee:
+====================
+Umut Acar (co-chair), Carnegie Mellon U., PA, USA
+Arvind, MIT, MA, USA
+Jost Berthold (co-chair), U. of Copenhagen, Denmark
+Guy Blelloch, Carnegie Mellon U., PA, USA
+Hassan Chafi, Oracle Labs, CA, USA
+Dan Spoonhower, Google, CA, USA
+Sergei Gorlatch, U. Münster, Germany
+Clemens Grelck, U.  of Amsterdam, Netherlands
+Vinod Grover, NVidia, USA
+Torsten Grust, U.Tübingen, Germany
+Zhenjiang Hu, National Inst. of Informatics, Tokyo, Japan
+Gabriele Keller, U.New South Wales, Sydney, Australia
+Jens Palsberg, U.California, CA, USA
+Leaf Peterson, Intel, USA
+Mike Rainey, MPI-SWS,Kaiserslautern, Germany
+Suresh Jagannathan, Purdue U., USA
+Sven-Bodo Scholz, Heriot-Watt U., Edinburgh, UK
+Guy Steele, Oracle Labs, Burlington, MA, USA
+Yaron Minsky, Jane Street Capital, NY, USA
+
+General Chairs:
+====================
+Clemens Grelck, University of Amsterdam, NL
+Fritz Henglein, University of Copenhagen, DK
+

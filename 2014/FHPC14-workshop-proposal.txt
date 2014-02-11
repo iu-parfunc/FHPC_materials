@@ -1,0 +1,284 @@
+----------------------------------------------------------------------
+
+            ICFP 2014, THE 19TH ACM SIGPLAN INTERNATIONAL
+                 CONFERENCE ON FUNCTIONAL PROGRAMMING
+
+                       AUGUST 31 – SEPTEMBER 6
+                           Gothenburg, Sweden
+
+                        WORKSHOP PROPOSAL FORM
+
+    Note: for workshops that were affiliated with ICFP in 2013, a copy
+    of last year's completed proposal form can be obtained for
+    reference, by emailing icfp2014-workshops@ugent.be.
+
+----------------------------------------------------------------------
+
+
+NAME OF THE WORKSHOP:
+
+3rd ACM SIGPLAN Workshop on Functional High-Performance Computing (FHPC'14)
+
+GOALS OF THE WORKSHOP:
+
+The FHPC workshop aims at bringing together researchers exploring uses
+of functional (or more generally, declarative or high-level) programming
+technology in application domains where large-scale computations arise
+naturally and high performance is essential. Such computations would
+typically -- but not necessarily -- involve execution on highly parallel
+systems ranging from multi-core multi-processor systems to graphics
+accelerators (GPGPUs), reconfigurable hardware (FPGAs), large-scale
+compute clusters or any combination thereof. It is becoming apparent
+that radically new and well-founded methodologies for programming such
+systems are required to address their inherent complexity and to
+reconcile execution performance, portability, programming productivity and program correctness.
+
+The aim of the meeting is to enable sharing of results, experiences, and novel
+ideas about how high-level, declarative techniques can help make
+high-performance codes dealing with computationally challenging problems more
+transparent, maintainable and portable, while at the same time approaching
+(or even exceeding) the performance of machine-oriented imperative
+implementations.
+
+The first FHPC workshop was held in 2012, the second in 2013, both colocated with ICFP.  The acceptance rate has been approx. 50%.
+
+ORGANIZERS OF THE WORKSHOP:
+
+   (Please complete the following table for each organizer.)
+   
+   Name    : Fritz Henglein or Jost Berhold
+   Address : University of Copenhagen
+   Email   : henglein@diku.dk, berthold@diku.dk
+   Phone   : +45-30589576
+   Mobile  : +45-30589576
+
+
+NAMES OF POTENTIAL PROGRAM COMMITTEE MEMBERS, WITH AFFILIATIONS:
+
+   (Note that this list must be reviewed by SIGPLAN, which includes
+    checking for broad representation.
+
+      http://www.sigplan.org/Resources/Policies/Diversity
+
+    Since SIGPLAN does sometimes request changes, PC invitations
+    should wait until the workshop is approved.  Thus, you may
+    wish to include alternate names, in case not all invitations
+    are accepted.
+
+    The ICFP Workshop Chairs will pass this proposed PC on to 
+    SIGPLAN, and report back if there are any concerns.)
+
+   The PC will consist of approximately 12 members, and consider the 
+   SIGPLAN diversity policy.
+
+   The following list of potential members, indicative of the scope of FHPC and 
+   including previous members of FPHC committees.  We are aware of SIGPLAN
+   requirements on rotation and composition of PC members. 
+
+
+
+   Mary Sheeran, Chalmers University of Technology, Sweden (PC chair, has accepted)
+   Rita Loogen, U. Marburg, Germany
+   Ben Lippmeier, U. of New South Wales, Australia
+   Marco Aldinucci, University of Torino, Italy
+    Manuel Chakravarty, University of New South Wales, Australia
+    Andrzej Filinski, University of Copenhagen, Denmark
+    Clemens Grelck, University of Amsterdam, Netherlands
+    Gaétan Hains, University of Paris-Est, France
+    Zhenjiang Hu, National Institute of Informatics, Japan
+    Mike Giles, University of Oxford, UK
+    Neal Glew, Intel, USA
+    Ryan Newton, Indiana University, USA
+    Satnam Singh, Google, USA
+    Phil Trinder, Heriot-Watt University, UK
+    Viktória Zsók, Eötvös Loránd University, Hungary
+   Umut Acar, Carnegie Mellon U., USA 
+   Anne Benoit, ENS Lyon, France
+   Jost Berthold, U. Copenhagen, Denmark (co-chair)
+   Guy Blelloch, Carnegie Mellon U., USA
+   Sergei Gorlatch, U. Münster, Germany
+   Clemens Grelck, U. Amsterdam, Netherlands (co-chair)
+   Torsten Grust, U. Tübingen, Germany
+   Kevin Hammond, University of St Andrews, UK
+   Zhenjiang Hu, National Institute of Informatics, Tokyo, Japan
+   Gabriele Keller, U. New South Wales, Sydney, Australia
+   Jens Palsberg, U. California, Los Angeles, CA, USA
+   Leaf Peterson, Intel, USA
+   John Reppy, U. Chicago, USA
+   Sven-Bodo Scholz, Heriot-Watt U., Edinburgh, UK
+   Guy Steele, Oracle Labs, Burlington, MA, USA
+   Satnam Singh, Google, USA
+   Hans-Wolfgang Loidl, Heriot-Watt U., Edinburgh, UK
+
+OTHER POTENTIAL ATTENDEES:
+
+FHPC targets primarily programming language researchers interested 
+functional programming languages and seeks to attract researchers and practitioners
+working on mainstream HPC, parallel systems and applications of the
+
+PLANS FOR THE CALL FOR PAPERS / PARTICIPATION:
+
+The call for papers and call for participation will be published in relevant
+mailing lists and websites, as well as personal solicitation by PC members.
+A first call for papers should go out in late March 2014, with a submission
+deadline in late May, author notification by mid-June, and camera-ready copy
+due mid July.
+The call for participation will go out as soon as the final program is
+known. Depending on the number of submissions received, there may be room for
+one or more high-profile invited talks, to further stimulate participation.
+FHPC'12 and FHPC'13 featured invited talks and an expert panel.
+
+
+EXPECTED NUMBER OF ATTENDEES:
+
+FHPC'12 and FHPC'13 both attracted around 60 participants on the workshop day,
+most of them also officially signed up to attend FHPC when registering.
+We expect to attract an audience of similar size, around 60 participants.
+At FHPC '13 attendance ranged between 40 and 70 depending on the talk, with the 2 invited
+talks attracting most attendants.  
+
+PLANNED LENGTH OF THE WORKSHOP:
+
+1 (full) day
+
+PLANS FOR PUBLICITY:
+
+   (Including, but not limited to, web pages, mailing lists, and
+   newsgroups.)
+
+Aside from the call for papers and call for participation, FHPC 2014 will 
+have a web presence in form of web pages containing CFP, general information,
+programme, abstracts, and other material.
+Previous instances of FHPC used the hiperfit.dk website. We intend to migrate
+to independent webpages in 2014.
+
+
+PLANS FOR A PUBLISHED PROCEEDINGS:
+
+   (Three options are available: no proceedings, proceedings published
+   by ACM, or proceedings published as a university technical report.
+   In particular, using another publisher is not acceptable under the
+   sponsorship terms.)
+
+Like FHPC'12 and FHPC'13, FHPC'14 wishes to publish proceedings with
+ACM, either in print or electronically and disseminated via ACM DL.
+
+PREVIOUS VERSIONS OF THE WORKSHOP:
+
+   Name                      : FHPC 2013
+   Dates                     : 09/2013, co-located with ICFP 2013
+   Location                  : Boston
+   Organizers                : Clemens Grelck, Fritz Henglein (co-general chair), 
+				Umut Acar, Jost Berthold (PC co-chairs)
+   Website                   : http://hiperfit.dk/fhpc13.html
+   Number of submissions     : 14
+   Number of accepted papers : 8, and invited keynotes by Matthew Fluet
+                               and Manuel Chakravarty
+   Number of attendees       : ca 60
+   Registration fee          : $200 (early reg.) -- day pass
+   Budget information        : handled by ACM
+
+   Name                      : FHPC 2012
+   Dates                     : 09/2012, co-located with ICFP 2012
+   Location                  : Copenhagen
+   Organizers                : Clemens Grelck, Andrzej Filinski (PC co-chairs)
+   Website                   : http://hiperfit.dk/fhpc12.html
+   Number of submissions     : 15
+   Number of accepted papers : 9, invited keynote by Paul Kelly
+   Number of attendees       : 66
+   Registration fee          : $200 (early reg.) -- day pass
+   Budget information        : handled by ACM
+
+FHPC 2012 emerged from an earlier series of HIPERFIT workshops with 
+increasing visibility (see http://hiperfit.dk/workshops.html):
+
+
+   Name                      : 1st HIPERFIT workshop (internal)
+   Dates                     : May 25, 2011
+   Location                  : University of Copenhagen
+   Organizers                : HIPERFIT
+   Website                   : http://hiperfit.dk/workshops/1st-workshop.html
+   Number of submissions     : (internal and invited talks only)
+   Number of accepted papers : 7 talks
+   Number of attendees       : 60 (mostly partners and local students)
+   Registration fee          : free
+   Budget information        : ~500 EUR, covered by HIPERFIT
+
+   Name                      : 2nd HIPERFIT workshop: Mathematical Finance 
+                               meets Programming Languages and Systems
+   Dates                     : December 1-2, 2011
+   Location                  : University of Copenhagen
+   Organizers                : HIPERFIT, in cooperation with 
+                               Copenhagen Finance IT Region (www.cfir.dk)
+   Website                   : http://hiperfit.dk/workshops/2nd-workshop.html
+   Number of submissions     : (invited talks only)
+   Number of accepted papers : 10 invited talks (international speakers)
+   Number of attendees       : 90 registered participants
+   Registration fee          : free
+   Budget information        : ~5,000 EUR (mainly travel expenses for
+                               invited speakers), covered by HIPERFIT
+
+   Name                      : Workshop on Functional Programming in 
+                               Quantitative Finance
+   Dates                     : April 20-22, 2012
+   Location                  : University of Chicago
+   Organizers                : Stevanovich Center for Financial Mathematics,
+                               U. Chicago, in cooperation with HIPEFIT
+   Website                   : http://stevanovichcenter.uchicago.edu/conferences/fp/Fun2.html
+   Number of submissions     : -
+   Number of accepted papers : 15 invited talks and tutorials 
+                               (international speakers)
+   Number of attendees       : ~110 registered participants
+   Registration fee          : free
+   Budget information        : handled by Stevanovich Center, covered by
+                               sponsoring, Stevanovich Center and HIPERFIT
+
+WORKSHOP WEBSITE:
+
+   (Please include the address that will be used for the workshop
+   website, even if this site is not yet active or complete.)
+
+http://hiperfit.dk/fhpc13.html
+
+VIDEO RECORDING:
+
+  (Do you want the workshop recorded, and if so why. ICFP 2014 has a
+  Video Chair, and one event per day can be filmed. It may also be
+  possible to arrange more cameras and people if needed.)
+
+We would appreciate video recordings (if possible) to improve
+visibility of the FHPC workshop in communities who do not follow ICFP
+developments closely.
+
+ADDITIONAL INFORMATION:
+
+   (If there is any additional information that you would like
+   to make us aware of, please include the details here.  
+
+   For example, you may wish to indicate a preference for particular
+   dates, or that the workshop should not be run in parallel with
+   certain other workshops; in such cases, please also include the
+   reasons for your preference.
+
+   As mentioned in the call for proposals, the workshops this year
+   will occur on August 31 (the day before ICFP) and September 4-6,
+   the three days after ICFP.)
+
+Preferably the day after ICFP, September 4th.
+
+
+SUBMISSION INFORMATION:
+
+   The deadline for workshop proposals is NOVEMBER 15, 2013,
+   and the completed form should be emailed to the ICFP 2014
+   workshop co-chairs (Sam Tobin-Hochstadt and Tom Schrijvers),
+   via email to icfp2014-workshops@ugent.be.
+
+   Authors of workshop proposals will be notified of acceptance
+   or rejection by DECEMBER 15, 2013.
+
+   PLEASE NOTE:
+   Organizers should await SIGPLAN approval of the included program
+   committee membership prior to sending out PC invitations.
+
+----------------------------------------------------------------------
