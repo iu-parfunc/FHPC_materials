@@ -14,7 +14,7 @@
 Co-located with the International Conference on Functional Programming
                                (ICFP 2014)
 
-Submission Deadline: Sunday, May 15, 2014 (anywhere on earth)
+Submission Deadline: Sunday, 15 May, 2014 (anywhere on earth)
 =====================================================================
 
 The FHPC workshop aims at bringing together researchers exploring uses
