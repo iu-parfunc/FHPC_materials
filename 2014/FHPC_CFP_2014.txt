@@ -41,7 +41,7 @@ in-scope papers are welcomed.  For FHPC 2014, the theme is
 "Heterogeneous computing".  In the systems and parallelism
 communities, there has been a lot of work on programming systems with
 CPUs and GPUs (or other mixed parallel architectures), but in the
-programming languages community this idea has not received as heavy
+programming languages community this idea has not received as much
 attention.  At their best, high-level languages can have the degrees
 of flexibility necessary to abstract over platform differences.
 
@@ -90,25 +90,26 @@ on the PAC programme, see its web page (http://www.sigplan.org/PAC.htm).
 Programme Committee:
 ====================
 
-Lennart Augustsson,			Standard Chartered Bank, UK
-Jost Berthold,                 		University of Copenhagen, Denmark
-Guy Blelloch, 				Carnegie Mellon University, USA
-Marius Eriksen, 			Twitter, USA
-Clemens Grelck, 			University of Amsterdam, Netherlands
-Vinod Grover, 				Nvidia, USA
-Kevin Hammond, 				University of St. Andrews, UK
-Ben Lippmeier, 				University of New South Wales, Australia
-Liu (Paul) Hai, 			Intel, USA
+Mary Sheeran (co-chair),                Chalmers University of Technology, SE
+Ryan Newton (co-chair),                 Indiana University, USA
+
+Lennart Augustsson,                     Standard Chartered Bank, UK
+Jost Berthold,                          University of Copenhagen, Denmark
+Guy Blelloch,                           Carnegie Mellon University, USA
+Marius Eriksen,                         Twitter, USA
+Clemens Grelck,                         University of Amsterdam, Netherlands
+Vinod Grover,                           Nvidia, USA
+Kevin Hammond,                          University of St. Andrews, UK
+Ben Lippmeier,                          University of New South Wales, Australia
+Liu (Paul) Hai,                         Intel, USA
 Rita Loogen,                            University of Marburg, Germany
-Greg Michaelson,			Heriot-Watt University, UK
-Marc Pouzet, 				ENS Paris, France
-John Reppy, 				Univesity of Chicago, USA
-Tiark Rompf, 				Oracle Labs and EPFL, Switzerland
-Satnam Singh, 				Google, USA
-Dimitrios Vytiniotis, 			Microsoft Research, UK
+Greg Michaelson,                        Heriot-Watt University, UK
+Marc Pouzet,                            ENS Paris, France
+John Reppy,                             Univesity of Chicago, USA
+Tiark Rompf,                            Oracle Labs and EPFL, Switzerland
+Satnam Singh,                           Google, USA
+Dimitrios Vytiniotis,                   Microsoft Research, UK
 
 General Chairs:
 ====================
-Mary Sheeran, Chalmers University of Technology, SE
-Ryan Newton, Indiana University, USA
-
+Jost Berthold                           University of Copenhagen
