@@ -62,7 +62,7 @@ See http://www.sigplan.org/authorInformation.htm for more information
 and style files.  Typical papers are expected to be 8 pages (but up to
 four additional pages are permitted).
 
-Contributions to FHPC 2013 should be submitted via Easychair, at the
+Contributions to FHPC 2014 should be submitted via Easychair, at the
 following URL:
 
  * https://www.easychair.org/conferences/?conf=fhpc14
