@@ -1,0 +1,15 @@
+http://www.eapls.org
+http://www.wikicfp.org
+
+haskell@haskell.org
+parallel-haskell@googlegroups.com
+hpc-announce@mcs.anl.gov
+types-announce@lists.seas.upenn.edu
+appsem@tcs.informatik.uni-muenchen.de
+caml-list@inria.fr 
+hipeac-announce@hipeac.net
+first-announce@itu.dk
+prog-lang@diku.dk
+
+Scala community? (scala-announce@googlegroups.com dropped last year)
+
