@@ -16,15 +16,15 @@ TODO tasks for organizing FHPC'14
   -  types-announce@lists.seas.upenn.edu
   -  caml-list@inria.fr
  
+ 
+
+Tasks already DONE
+------------------
+
  * [Jost] Advertise here
   - hpc-announce@mcs.anl.gov
   - appsem@tcs.informatik.uni-muenchen.de
   - hipeac-announce@hipeac.net
   - first-announce@itu.dk
   - prog-lang@diku.dk
-  - Scala community? (scala-announce@googlegroups.com dropped last year)
-
- 
-
-Tasks already DONE
-------------------
+  - Scala community (via Tiark)
