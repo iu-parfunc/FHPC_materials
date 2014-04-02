@@ -1,9 +1,12 @@
-
 TODO tasks for organizing FHPC'14
 ---------------------------------
 
  * [?] Update 2014 website: break into sections, include counter
- * [?] Send PCs cfp directly
+
+ * [?] PC member list
+  - Make a convenient email list
+  - Add the rest of the PC to easychair
+  - Send PCs cfp directly
  
  * [Ryan] Advertise here:
   -  http://www.eapls.org
@@ -20,6 +23,8 @@ TODO tasks for organizing FHPC'14
   - first-announce@itu.dk
   - prog-lang@diku.dk
   - Scala community? (scala-announce@googlegroups.com dropped last year)
+
+ 
 
 Tasks already DONE
 ------------------
