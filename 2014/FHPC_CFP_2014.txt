@@ -90,26 +90,26 @@ on the PAC programme, see its web page (http://www.sigplan.org/PAC.htm).
 Programme Committee:
 ====================
 
-Mary Sheeran (co-chair),                Chalmers University of Technology, SE
-Ryan Newton (co-chair),                 Indiana University, USA
+Mary Sheeran (co-chair),    Chalmers University of Technology, SE
+Ryan Newton (co-chair),     Indiana University, USA
 
-Lennart Augustsson,                     Standard Chartered Bank, UK
-Jost Berthold,                          University of Copenhagen, Denmark
-Guy Blelloch,                           Carnegie Mellon University, USA
-Marius Eriksen,                         Twitter, USA
-Clemens Grelck,                         University of Amsterdam, Netherlands
-Vinod Grover,                           Nvidia, USA
-Kevin Hammond,                          University of St. Andrews, UK
-Ben Lippmeier,                          University of New South Wales, Australia
-Liu (Paul) Hai,                         Intel, USA
-Rita Loogen,                            University of Marburg, Germany
-Greg Michaelson,                        Heriot-Watt University, UK
-Marc Pouzet,                            ENS Paris, France
-John Reppy,                             Univesity of Chicago, USA
-Tiark Rompf,                            Oracle Labs and EPFL, Switzerland
-Satnam Singh,                           Google, USA
-Dimitrios Vytiniotis,                   Microsoft Research, UK
+Lennart Augustsson,         Standard Chartered Bank, UK
+Jost Berthold,              University of Copenhagen, Denmark
+Guy Blelloch,               Carnegie Mellon University, USA
+Marius Eriksen,             Twitter, USA
+Clemens Grelck,             University of Amsterdam, Netherlands
+Vinod Grover,               Nvidia, USA
+Kevin Hammond,              University of St. Andrews, UK
+Ben Lippmeier,              University of New South Wales, Australia
+Liu (Paul) Hai,             Intel, USA
+Rita Loogen,                University of Marburg, Germany
+Greg Michaelson,            Heriot-Watt University, UK
+Marc Pouzet,                ENS Paris, France
+John Reppy,                 Univesity of Chicago, USA
+Tiark Rompf,                Oracle Labs and EPFL, Switzerland
+Satnam Singh,               Google, USA
+Dimitrios Vytiniotis,       Microsoft Research, UK
 
 General Chairs:
 ====================
-Jost Berthold                           University of Copenhagen
+Jost Berthold               University of Copenhagen
