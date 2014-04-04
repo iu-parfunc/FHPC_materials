@@ -1,0 +1,19 @@
+
+Mary Sheeran <ms@chalmers.se>,
+Ryan Newton <rrnewton@indiana.edu>,
+Lennart Augustsson <lennart@augustsson.net>,
+Jost Berthold <berthold@di.ku.dk>,
+Guy Blelloch <guyb@cs.cmu.edu>,
+Marius Eriksen <marius@twitter.com>,
+Clemens Grelck <c.grelck@uva.nl>
+Vinod Grover <vgrover@nvidia.com>,
+Kevin Hammond <kh@dcs.st-and.ac.uk>
+Ben Lippmeier <benl@cse.unsw.edu.au>
+Liu (Paul) Hai <hai.liu@intel.com>,
+Rita Loogen <loogen@mathematik.uni-marburg.de>,
+Greg Michaelson <G.Michaelson@hw.ac.uk>,
+Marc Pouzet <Marc.Pouzet@ens.fr>,
+John Reppy <jhr@cs.uchicago.edu>,
+Tiark Rompf <tiark.rompf@epfl.ch>,
+Satnam Singh <satnam@google.com>,
+Dimitrios Vytiniotis <dimitris@microsoft.com>
