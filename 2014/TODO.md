@@ -4,19 +4,18 @@ TODO tasks for organizing FHPC'14
  * [?] Update 2014 website: break into sections, include counter
 
  * [?] PC member list
-  - Make a convenient email list
+  X Make a convenient email list (see pc_emails.txt)
   - Add the rest of the PC to easychair
   - Send PCs cfp directly
  
  * [Ryan] Advertise here:
   -  http://www.eapls.org
   -  http://www.wikicfp.org
-  -  haskell@haskell.org
-  -  parallel-haskell@googlegroups.com
-  -  types-announce@lists.seas.upenn.edu
-  -  caml-list@inria.fr
- 
- 
+  X  haskell@haskell.org
+  X  parallel-haskell@googlegroups.com
+  X  types-announce@lists.seas.upenn.edu
+  X  caml-list@inria.fr
+  
 
 Tasks already DONE
 ------------------
