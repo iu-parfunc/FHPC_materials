@@ -14,7 +14,7 @@
 Co-located with the International Conference on Functional Programming
                                (ICFP 2014)
 
-Submission Deadline: Sunday, 15 May, 2014 (anywhere on earth)
+Submission Deadline: Thursday, 15 May, 2014 (anywhere on earth)
 =====================================================================
 
 The FHPC workshop aims at bringing together researchers exploring uses
@@ -52,8 +52,8 @@ Proceedings:
 Accepted papers will be published by the ACM and will appear in the
 ACM Digital Library.
 
- * Submissions due: Sunday, 15 May, 2014 (anywhere on earth)
- * Author notification: Friday, 15 June, 2014
+ * Submissions due: Thursday, 15 May, 2014 (anywhere on earth)
+ * Author notification: Thursday, 15 June, 2014
  * Final copy due: Sunday, 22 June, 2014
 
 Submitted papers must be in portable document format (PDF), formatted
