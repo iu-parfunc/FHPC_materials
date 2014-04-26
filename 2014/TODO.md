@@ -1,8 +1,6 @@
 TODO tasks for organizing FHPC'14
 ---------------------------------
 
- * [?] Update 2014 website: break into sections, include counter
-
  * [?] PC member list
   X Make a convenient email list (see pc_emails.txt)
   - Add the rest of the PC to easychair
@@ -27,3 +25,6 @@ Tasks already DONE
   - first-announce@itu.dk
   - prog-lang@diku.dk
   - Scala community (via Tiark)
+
+ * [Jost] Update 2014 website: break into sections, include counter
+
