@@ -3,7 +3,7 @@
 
                                FHPC 2014
 
-                    The 2nd ACM SIGPLAN Workshop on
+                    The 3rd ACM SIGPLAN Workshop on
                  Functional High-Performance Computing
 
                           Gothenburg, Sweden
@@ -12,7 +12,7 @@
             https://sites.google.com/site/fhpcworkshops/
 
 Co-located with the International Conference on Functional Programming
-                               (ICFP 2014)
+                             (ICFP 2014)
 
 Submission Deadline: Thursday, 15 May, 2014 (anywhere on earth)
 =====================================================================
@@ -101,7 +101,7 @@ Clemens Grelck,             University of Amsterdam, Netherlands
 Vinod Grover,               Nvidia, USA
 Kevin Hammond,              University of St. Andrews, UK
 Ben Lippmeier,              University of New South Wales, Australia
-Liu (Paul) Hai,             Intel, USA
+Hai (Paul) Liu,             Intel, USA
 Rita Loogen,                University of Marburg, Germany
 Greg Michaelson,            Heriot-Watt University, UK
 Marc Pouzet,                ENS Paris, France
@@ -110,6 +110,6 @@ Tiark Rompf,                Oracle Labs and EPFL, Switzerland
 Satnam Singh,               Google, USA
 Dimitrios Vytiniotis,       Microsoft Research, UK
 
-General Chairs:
-====================
-Jost Berthold               University of Copenhagen
+General Chair:
+==============
+Jost Berthold               University of Copenhagen, Denmark
