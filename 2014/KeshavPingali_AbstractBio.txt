@@ -1,0 +1,61 @@
+
+ Parallel Program = Operator + Schedule + Parallel Data Structure
+
+              Keshav Pingali
+
+         Department of Computer Science 
+                     and
+    Institute for Computational Engineering and Science
+
+         The University of Texas at Austin
+
+
+ Multicore and manycore processors are now ubiquitous, but
+parallel programming remains as difficult as it was 30-40 
+years ago. In this talk, I will argue that these problems arise largely
+from the computation-centric abstractions that we currently 
+use to think about parallelism. In their
+place, I will propose a novel data-centric foundation for
+parallel programming called the operator formulation in which
+algorithms are described in terms of unitary actions on data structures.
+These actions can be expressed as rewrite rules similar
+to those used in functional programming, except that they rewrite 
+data structures rather than programs. 
+    This data-centric view of parallel algorithms shows that a generalized 
+form of data-parallelism called amorphous data-parallelism is ubiquitous 
+even in complex, irregular graph applications such as mesh generation and 
+partitioning algorithms, graph analytics, and machine learning applications. 
+Binding time considerations provide a unification of parallelization 
+techniques ranging from static parallelization to speculative parallelization.
+
+   We have built a system called Galois, based on these ideas,
+for exploiting amorphous data-parallelism on multicores and GPUs.
+I will present experimental results from our group as well as from
+other groups that are using the Galois system. 
+
+************************************************************
+
+Biography:
+
+Keshav Pingali is a Professor in the Department of Computer Science
+at the University of Texas at Austin, and he holds the W.A."Tex" 
+Moncrief Chair of Computing in the Institute for Computational 
+Engineering and Sciences (ICES) at UT Austin. He was on the 
+faculty of the Department of Computer Science at Cornell University 
+from 1986 to 2006, where he held the India Chair of Computer Science.
+
+Pingali's research has focused on programming
+languages and compiler technology for program 
+understanding, restructuring, and optimization. 
+His group is known for its contributions to 
+memory-hierarchy optimization; some of these 
+have been patented and are in use in industry compilers. 
+His current research is focused on programming languages
+and tools for multicore processors. 
+
+Pingali is a Fellow of the ACM, IEEE and AAAS, and a
+Distinguished Alumnus of IIT Kanpur, India. He was the 
+co-Editor-in-chief of the ACM Transactions on Programming 
+Languages and Systems, and currently serves on the editorial boards 
+of the International Journal of Parallel Programming and Distributed 
+Computing. He also served on the NSF CISE Advisory Committee (2009-2012). 
