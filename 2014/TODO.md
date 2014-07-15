@@ -1,11 +1,30 @@
-TODO tasks for organizing FHPC'14
+
+
+Reference Info
+--------------
+
+   https://www.easychair.org/conferences/conference_info.cgi?a=6093834
+
+We've communicated with "Lisa M. Tolles <LTolles@scomminc.com>"
+
+
+
+TODO tasks for organizing FHPC'14 
 ---------------------------------
 
-()
+ * "Include acceptance emails"?  What's this about:
+     "We do encourage the chairs to include in the acceptance emails (see
+      attached text file) i) Link to the preparation instructions:
+      http://www.sheridanprinting.com/typedept/icfp2014.htm ß the
+      workshops will be added shortly and be readied soon or you can also
+      direct them to the link for your specific workshop."
 
- * [Mary,Ryan] PC member list
-  - Add the rest of the PC to easychair (see pc_emails.txt)
-  - Send PCs cfp directly to invite submissions from peers
+ * Page limits -- is there any problem with >10 pages?  (We don't have
+   a physical proceedings rgiht?)
+
+
+General recipe:
+---------------
 
  * [PC chairs] 
   - Handle submissions, organise refereeing, moderate PC discussions
@@ -33,8 +52,12 @@ TODO tasks for organizing FHPC'14
   - bundle and sanitise repository to pass it on 
   - give access to google site (and maybe repository)
 
-Tasks already DONE
-------------------
+Tasks already DONE or now past
+------------------------------
+
+ * [Mary,Ryan] PC member list
+  - Add the rest of the PC to easychair (see pc_emails.txt)
+  - Send PCs cfp directly to invite submissions from peers
 
  * [Ryan]
   X Make a convenient email list (see pc_emails.txt)

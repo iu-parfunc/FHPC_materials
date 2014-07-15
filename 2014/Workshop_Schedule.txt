@@ -1,0 +1,44 @@
+
+
+09:00 - 10:00 Session 1: Invited Talk, Keshav Pingali
+	      Parallel Program = Operator + Schedule + Parallel Data Structure
+10:00 - 10:30 Coffee break
+10:30 - 11:20 Session 2: Applications
+      	      Christian Harrington, Nicolai Dahl, Peter Sestoft and David Raymond Christiansen:
+	      Pension Reserve Computations on GPUs
+
+	      David Duke, Fouzhan Hosseini and Hamish Carr:
+	      Parallel Computation of Multifield Topology: Experience of Haskell in a
+	      Computational Science Application
+	      
+11:20 - 11:40 Break
+11:40 - 12:30 Session 3: Implementation techniques
+      	      Georgios Fourtounis and Nikolaos Papaspyrou:
+	      An efficient representation for lazy constructors using 64-bit pointers
+
+	      Troels Henriksen, Martin Elsman and Cosmin E. Oancea:
+	      Size Slicing - A Hybrid Approach to Size Inference in Futhark
+
+12:30 - 14:00 Lunch
+14:00 - 14:50 Session 4: Optimizing Compilation
+      	      Joel Svensson and Josef Svenningsson:
+	      Defunctionalizing Push Arrays
+
+	      Amos Robinson, Ben Lippmeier and Gabriele Keller:
+	      Fusing Filters with Integer Linear Programming
+
+14:50 - 15:10 Break
+15:10 - 16:00 Session 5: Programming Patterns
+      	      Prabhat Totoo and Hans-Wolfgang Loidl:
+	      Lazy Data-Oriented Evaluation Strategies
+
+	      Felix Hargreaves, Daniel Merkle and Peter Schneider-Kamp:
+	      Group Communication Patterns for High Performance Computing in Scala
+
+16:00 - 16:30 Tea break
+16:30 - 17:20 Session 6:  Compilation for heterogeneous systems 
+      	      Hai Liu, Laurence Day, Neal Glew, Todd Anderson and Rajkishore Barik:
+	      Native Offload of Haskell Repa Programs to GPGPU
+
+	      Thibaut Lutz and Vinod Grover. LambdaJIT:
+	      A Dynamic Compiler for Heterogeneous Optimizations of STL Algorithms

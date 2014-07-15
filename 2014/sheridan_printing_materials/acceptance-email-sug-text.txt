@@ -1,0 +1,35 @@
+Recommendation/Suggested Text and Information to provide in Acceptance Emails
+Replace links, titles, and acronyms as appropriate
+
+
+************
+Dear Authors,
+
+Thank you for your submission to XXXXXX 2014. We are proud to inform you that your submission "<<<<Title>>>>" has been accepted for presentation at the XXXXXX'14. See the following information and the reviews below to update and improve your contribution. We will let you know when your presentation slot has been assigned --or-- assignment information here.
+
+A. Here are the formatting and preparation instructions for your XXX page <<<submission type: full paper, short paper, poster, demo abstract, panel, etc>>> to be included in the proceedings:  http://www.sheridanprinting.com/typedept/XXXXXX2014.htm  
+Kindly review the templates and formatting guidelines. Please familiarize your self with the formatting and review in general for the helpful formatting hints included.
+
+B. The submission deadline for your <<<submission type>>> is XXXX XX, 2014.
+     No extensions will be given. Kindly attend to your submission early if you have travel planned near the submission deadline.
+
+C. To expect two emails:
+     C1. One email from ACM Rightsreview (rightsreview@acm.org) with a link to the electronic ACM copyright-permission form(s) to be completed. Upon completing the electronic form, you will receive a confirmation email. Contained within the confirmation email will be the ACM copyright-permission block text specific for your paper. See formatting help in item #1 on how to include this text and minimize the space impact on the first page.
+     C2. One email from Sheridan Communications (acm@sheridanprinting.com). This email will contain your assigned submission id#, link to the formatting instructions (same as item A above), and a unique-link to submit your final publication ready version on or before the submission deadline.
+
+****************
+REVIEW #1
+XXXXXXXXXXXXXXX
+
+****************
+REVIEW #2
+XXXXXXXXXXXXXXX
+
+
+
+Sincerely,
+Chairs Names
+XXXXXX'14 Chairs
+
+
+
