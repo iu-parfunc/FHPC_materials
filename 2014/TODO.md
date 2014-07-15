@@ -5,22 +5,31 @@ Reference Info
 
    https://www.easychair.org/conferences/conference_info.cgi?a=6093834
 
-We've communicated with "Lisa M. Tolles <LTolles@scomminc.com>"
+Chairs monitoring page:
+   http://www.sheridanprinting.com/acm/sigplan4/grid/chairsinfo.cfm 
 
+We've communicated with "Lisa M. Tolles <LTolles@scomminc.com>"
 
 
 TODO tasks for organizing FHPC'14 
 ---------------------------------
 
- * "Include acceptance emails"?  What's this about:
+ * Final call for PARTICIPATION
+
+ * [Ryan] Check on status of author camera ready submissions.
+ * [Ryan] Double check final title spelling in programme vs. camera ready's.
+
+ * [Ryan] Organization List
+
+ * [?] "Include acceptance emails"?  What's this about:
      "We do encourage the chairs to include in the acceptance emails (see
       attached text file) i) Link to the preparation instructions:
       http://www.sheridanprinting.com/typedept/icfp2014.htm ß the
       workshops will be added shortly and be readied soon or you can also
       direct them to the link for your specific workshop."
 
- * Page limits -- is there any problem with >10 pages?  (We don't have
-   a physical proceedings rgiht?)
+ * [?] Page limits -- is there any problem with >10 pages?  (We don't have
+       a physical proceedings right?)
 
 
 General recipe:
