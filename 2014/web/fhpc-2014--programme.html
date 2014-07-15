@@ -1,0 +1,193 @@
+<!DOCTYPE html
+  PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+  "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en-US" xml:lang="en-US">
+  <head>
+    <title>FHPC14 Accepted Papers with Abstracts</title>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
+<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+<script>
+$(document).ready(function(){
+  $("button").click(function(){
+    $(".abstract").toggle();
+  });
+});
+</script>
+  </head>
+  <body>
+    <h1>FHPC14 Accepted Papers with Abstracts</h1>
+<!-- -->
+<style>.session { width:670px; 
+  border-top: solid black 3px; font-size:larger;clear:both;font-variant:small-caps;font-weight:bold;padding-left:20pt;padding-right:10pt;padding-top:10pt}</style>
+<style>.title {font-style:italic;font-weight:bold;padding:3pt}</style>
+<style>.authors {padding:3pt}</style>
+<style>.abstract { width:800px; 
+  font-size:smaller;border:solid black 1px;padding:3pt}</style>
+<style>.paper { width:800px;
+  border-left:none;border-right:none;border-top: solid black 1px;padding:2pt}</style>
+<!-- <style>.abstract:last-child {border-bottom: solid black 1px;padding:3pt}</style> 
+<style>.paper:last-child {border-bottom: solid black 1px;padding:2pt}</style>-->
+
+
+<!-- functionality added by jquery, see above -->
+<button id="toggle" style="position:fixed; left: 10pt;top: 40pt;">
+Show/Hide abstracts</button>
+
+<div class="session">9:00 - 10:00 &mdash; Welcome and Invited Talk</div>
+
+<div class="paper"><span class="authors">Mary Sheeran</span>.
+<span class="title">Chairs' Welcome to FHPC 2014</span></div>
+
+<div class="paper"><span class="authors">Keshav Pingali</span>.<br>
+<span class="title">Parallel Program = Operator + Schedule + Parallel Data Structure</span>(invited talk)</div>
+<div class="abstract"><b>Abstract: </b>
+ Multicore and manycore processors are now ubiquitous, but
+parallel programming remains as difficult as it was 30-40 
+years ago. In this talk, I will argue that these problems arise largely
+from the computation-centric abstractions that we currently 
+use to think about parallelism. In their
+place, I will propose a novel data-centric foundation for
+parallel programming called the operator formulation in which
+algorithms are described in terms of unitary actions on data structures.
+These actions can be expressed as rewrite rules similar
+to those used in functional programming, except that they rewrite 
+data structures rather than programs. 
+    This data-centric view of parallel algorithms shows that a generalized 
+form of data-parallelism called amorphous data-parallelism is ubiquitous 
+even in complex, irregular graph applications such as mesh generation and 
+partitioning algorithms, graph analytics, and machine learning applications. 
+Binding time considerations provide a unification of parallelization 
+techniques ranging from static parallelization to speculative parallelization.
+<br/>
+   We have built a system called Galois, based on these ideas,
+for exploiting amorphous data-parallelism on multicores and GPUs.
+I will present experimental results from our group as well as from
+other groups that are using the Galois system. 
+</div>
+
+<div class="session"> 10:30 - 11:20 &mdash; Applications</div>
+
+    <div class="paper"><span class="authors"><span>Christian Harrington, Nicolai Dahl, Peter Sestoft and David Raymond Christiansen</span>.<br/></span>
+<span class="title">Pension Reserve Computations on GPUs</span></div>
+    <div class="abstract"><b>Abstract: </b>New regulations from the European Union, called Solvency II, require that life insurance and pension providers perform more complicated calculations to demonstrate their solvency. At the same time, exploiting alternative computational paradigms such as GPGPU requires a high degree of expertise about the hardware and ties the computational infrastructure to one particular platform. In an industry where contracts literally last a lifetime, this is far from optimal. We demonstrate the feasibility of an alternative approach in which life insurance and pension products are represented in a high-level, declarative, domain-specific language from which platform-specific high-performance code can be generated. Specifically, we generate CUDA C code after applying both domain- and platform-specific optimizations. This code significantly outperforms equivalent code running on conventional CPUs.</div>
+
+
+    <div class="paper"><span class="authors"><span><a href="http://www.comp.leeds.ac.uk/scsdjd/">David Duke</a>, Fouzhan Hosseini and Hamish Carr</span>.<br/></span>
+<span class="title">Parallel Computation of Multifield Topology: Experience of Haskell in a Computational Science Application</span></div>
+    <div class="abstract"><b>Abstract: </b>Codes for computational science and downstream analysis (visualization and/or statistical modeling) have historically been dominated by imperative thinking, but this situation is evolving, both through adoption of higher-level tools such as Matlab, and through osmosis of functional ideas into the next generation of toolkits driven by the vision of extreme-scale computing.  However, this is still a long way from seeing a functional language like Haskell used in a live application.  This paper makes three contributions to functional programming in computational science.  First, we describe how use of Haskell was interleaved in the development of the first practical approach to multifield topology, and its application to the analysis of data from nuclear simulations that has led to new insight into fission.  Second, we report on subsequent development of the functional codebase, and present results that show that Haskell outperforming the imperative codebase in sequential execution, and achieving good parallel scaling.   Finally we consider the broader question of how, where, and why functional programming may - or may not - find further use in computational science.
+    </div>
+
+<div class="session">11:40 - 12:30 &mdash; Compilation I</div>
+
+    <div class="paper"><span class="authors"><span><a href="http://www.softlab.ntua.gr/~gfour/">Georgios Fourtounis</a> and <a href="http://www.softlab.ntua.gr/~nickie/">Nikolaos Papaspyrou</a></span>.<br/></span>
+<span class="title">An efficient representation for lazy constructors using 64-bit pointers</span></div>
+    <div class="abstract"><b>Abstract: </b>Pointers in the AMD64 architecture contain unused space, a feature often exploited by modern programming language implementations. We use this property in a defunctionalizing compiler for a subset of Haskell, generating fast programs having a compact memory representation of their runtime structures. We demonstrate that, in most cases, the compact representation is faster, uses less memory and has better cache characteristics. Our prototype shows competitive performance when compared to GHC with full optimizations on.</div>
+
+    <div class="paper"><span class="authors"><span>Troels Henriksen, Martin Elsman and Cosmin E. Oancea</span>.<br/></span>
+<span class="title">Size Slicing - A Hybrid Approach to Size Inference in Futhark</span></div>
+    <div class="abstract"><b>Abstract: </b>We present a shape inference analysis for a purely-functional language, named Futharc, that supports nested parallelism via array combinators such as map, reduce, filter, scan.   Our approach is to compute precise shape information as runtime values, which can be efficiently accessed and effectively optimized by the standard compiler optimizations.   Instead of restricting the language or sacrificing ease of use, we allow the occasional shape-misbehaved construct. The latter is treated with a fallback technique that preserves the program asymptotic by computing the array's shape after the array's creation point but before its first use. This corresponds to a shape-dependent system with existentially-quantified types.
+      <br/>
+      We optimize the common case to negligible overhead via size slicing: a technique that separates the computation of the array's shape from its values. This corresponds to eliminating the existential quantifier of the shape-dependent type.  We report negligible asymptotic overhead on several mini-benchmarks and three real-world applications.
+    </div>
+
+<div class="session">12:30 - 14:00 &mdash; Lunch</div>
+
+<div class="session">14:00 - 14:50 &mdash; Optimizing Compilation</div>
+
+    <div class="paper"><span class="authors"><span><a href="http://www.cse.chalmers.se/~josefs">Joel Svensson</a> and <a href="http://www.cse.chalmers.se/~josefs">Josef Svenningsson</a></span>.<br/></span>
+<span class="title">Defunctionalizing Push Arrays</span></div>
+    <div class="abstract"><b>Abstract: </b>Recent work on domain specific languages (DSLs) for high performance
+      array programming has given rise to a number of array
+      representations. In Feldspar and Obsidian there are two different
+      kinds of arrays, called Pull and Push arrays and in Repa there is a
+      even higher number of different array types.  The reason for having
+      multiple array types is to obtain code that performs better.  Pull and
+      Push arrays provide this by guaranteeing that operations fuse
+      automatically. It is also the case that some operations are easily
+      implemented and perform well on Pull arrays, while for some
+      operations, Push arrays provide better implementations. Repa has Pull
+      arrays, called delayed arrays for the same reason and so-called
+      cursored arrays which are important for performance in stencil
+      operations. But do we really need to have more than one array
+      representation? In this paper we derive a new array representation
+      from Push arrays that have all the good qualities of Pull and Push
+      arrays combined. This new array representation is obtained via
+      defunctionalization of a Push array API.
+    </div>
+
+    <div class="paper"><span class="authors"><span><a href="http://cse.unsw.edu.au/~amosr">Amos Robinson</a>, <a href="http://benl.ouroborus.net/">Ben Lippmeier</a> and <a href="http://www.cse.unsw.edu.au/~keller/">Gabriele Keller</a></span>.<br/></span>
+<span class="title">Fusing Filters with Integer Linear Programming</span></div>
+    <div class="abstract"><b>Abstract: </b>The key to compiling functional, collection oriented array programs into efficient code is to minimise memory trafffc.<br/>Simply fusing subsequent array operations into a single computation is not sufficient; we also need to cluster separate traversals of the same array into a single traversal.<br/>Previous work demonstrated how Integer Linear Programming (ILP) can be used to cluster the operators in a general data-flow graph into subgraphs, which can be individually fused.<br/>However, these approaches can only handle operations which preserve the size of the array, thereby missing out on some optimisation opportunities.<br/>This paper addresses this shortcoming by extending the ILP approach with support for size-changing operations, using an external ILP solver to find good clusterings.</div>
+
+<div class="session">15:10 - 16:00 &mdash; Programming Patterns</div>
+
+    <div class="paper"><span class="authors"><span>Prabhat Totoo and Hans-Wolfgang Loidl</span>.<br/></span>
+<span class="title">Lazy Data-Oriented Evaluation Strategies</span></div>
+    <div class="abstract"><b>Abstract: </b>This paper presents a number of flexible parallelism control
+      mechanisms in the form of evaluation strategies for tree-like data
+      structures implemented in Glasgow parallel Haskell. We achieve
+      additional flexibility by using laziness and circular programs in the
+      coordination code. Heuristics-based parameter selection is employed to
+      auto-tune these strategies for improved performance on a shared-memory
+      machine without programmer-specified parameters.
+      In particular for unbalanced trees we demonstrate improved performance
+      on a state-of-the-art multi-core server: giving a speedup of up to
+      37.5 on 48 cores for a constructed test program, and  up to 15 for two
+      other non-trivial applications using these strategies, a Barnes-Hut
+      implementation of the n-body problem and a sparse matrix
+      multiplication implementation.
+    </div>
+
+    <div class="paper"><span class="authors"><span><a href="http://vigtig.it/">Felix Hargreaves</a>, <a href="http://www.imada.sdu.dk/~daniel">Daniel Merkle</a> and <a href="http://www.imada.sdu.dk/~petersk/">Peter Schneider-Kamp</a></span>.<br/></span>
+<span class="title">Group Communication Patterns for High Performance Computing in Scala</span></div>
+    <div class="abstract"><b>Abstract: </b>We developed a Functional Object-Oriented PARallel framework (FOOPAR) for high-level high-performance computing in Scala. Central to this framework are Distributed Memory Parallel Data structures (DPDs), i.e., collections of data distributed in a shared nothing system together with parallel operations on these data.
+      <br/>In this paper, we first present FOOPAR’s architecture and the idea of DPDs and group communications. Then, we show how DPDs can be implemented elegantly and efficiently in Scala based on the Traversable/Builder pattern, unifying Functional and Object-Oriented Programming.
+      <br/>
+      We prove the correctness and safety of one communication algorithm and show how specification testing (via ScalaCheck) can be used to bridge the gap between proof and implementation. Furthermore, we show that the group communication operations of FOOPAR outperform those of the MPJ Express open source MPI-bindings for Java, both asymptotically and empirically.
+      <br/>
+      FOOPAR has already been shown to be capable of achieving close-to-optimal performance for dense matrix-matrix multiplication via JNI. In this article, we present results on a parallel implementation of the Floyd-Warshall algorithm in FOOPAR, achieving more than 94% efficiency compared to the serial version on a cluster using 100 cores for matrices of dimension 38000 × 38000.
+    </div>
+
+<div class="session">16:30 - 17:30 &mdash; Compilation II (Heterogeneous Systems) / Concluding Discussion</div>
+
+    <div class="paper"><span class="authors"><span>Hai Liu, Laurence Day, Neal Glew, Todd Anderson and Rajkishore Barik</span>.<br/></span>
+<span class="title">Native Offload of Haskell Repa Programs to GPGPU</span></div>
+    <div class="abstract"><b>Abstract: </b>In light of recent hardware advances, General 
+      Purpose Graphics Processing Units (GPGPUs)
+       are becoming increasingly commonplace, and 
+       demand novel programming models to account
+       for their radically different architecture. 
+       For the most part, existing approaches to 
+       programming GPGPUs within a high-level programming
+       language choose to embed a domain
+      specific language (DSL) within a host metalanguage
+       and implement a compiler mapping 
+      programs written within that DSL to code in low-level
+       languages such as OpenCL or CUDA. 
+      An alternative, underexplored, approach is to compile a restricted
+      subset of the host language itself directly down to OpenCL/CUDA.  We
+      believe more research should be done to compare these two approaches
+      and their relative merits.  As a step in this direction, we
+      implemented a quick proof of concept of the alternative approach.
+      Specifically, we extend the Repa library with a computeG
+      function to offload a computation to the GPU.  As long as the
+      requested computation meets certain restrictions, we can compile it to
+      OpenCL 2.0 using the shared virtual memory feature recently added, and
+      we can successfully run nine benchmarks on an Intel integrated GPU.
+      We obtain the expected performance from the GPU on six of those
+      benchmarks, and not far off the expected performance on two more.
+      In this paper, we describe an offload primitive for Haskell, how to
+      extend Repa to use it, how to implement that primitive in the Intel
+      Labs Haskell Research Compiler, and evaluate the approach on nine
+      benchmarks, comparing to two different CPUs, and for one benchmark to
+      hand-written OpenCL code.
+    </div>
+
+    <div class="paper"><span class="authors"><span>Thibaut Lutz and Vinod Grover</span>.<br/></span>
+<span class="title">LambdaJIT: A Dynamic Compiler for Heterogeneous Optimizations of STL Algorithms</span></div>
+    <div class="abstract"><b>Abstract: </b>C++11 introduced a set of new features to extend the core language and the standard library. Amongst the new features are basic blocks for concurrency management like threads and atomic operation support, and a new syntax to declare single purpose, one off functions, called lambda functions, which integrate nicely to the Standard Template Library (STL). The STL provides a set of high level algorithms operating on data ranges, often applying a user defined function, which can now be expressed as a lambda function. Together, an STL algorithm and a lambda function provides a concise and efficient way to express a data traversal pattern and localized computation.<br/>
+      This paper presents LambdaJIT; a C++11 compiler and a runtime system which enable lambda functions used alongside STL algorithms to be optimized or even re-targeted at runtime. We use compiler integration of the new C++ features to analyze and automatically parallelize the code whenever possible. The compiler also injects part of a program’s internal representation into the compiled program binary, which can be used by the runtime to re-compile and optimize the code. We take advantage of the features of lambda functions to create runtime optimizations exceeding those of traditional offline or online compilers. Finally, the runtime can use the embedded intermediate representation with a different backend target to safely offload computation to an accelerator such as a GPU, matching and even outperforming CUDA by up to 10%.
+    </div>
+
+  </body>
+</html>

@@ -11,7 +11,7 @@ Chairs monitoring page:
 We've communicated with "Lisa M. Tolles <LTolles@scomminc.com>"
 
 
-TODO tasks for organizing FHPC'14 
+TODO tasks FHPC'14 
 ---------------------------------
 
  * Final call for PARTICIPATION
@@ -21,48 +21,40 @@ TODO tasks for organizing FHPC'14
 
  * [Ryan] Organization List
 
- * [?] "Include acceptance emails"?  What's this about:
-     "We do encourage the chairs to include in the acceptance emails (see
-      attached text file) i) Link to the preparation instructions:
-      http://www.sheridanprinting.com/typedept/icfp2014.htm ß the
-      workshops will be added shortly and be readied soon or you can also
-      direct them to the link for your specific workshop."
-
- * [?] Page limits -- is there any problem with >10 pages?  (We don't have
-       a physical proceedings right?)
-
-
-General recipe:
----------------
-
- * [PC chairs] 
-  - Handle submissions, organise refereeing, moderate PC discussions
-  - obtain instructions from publisher/WS chairs on Camera-Ready versions (CR) 
-  - send acceptance notifications, include author instructions for CR
-  - monitor and check CR submissions (?)
-  - publish accepted papers on web pages
-
- * prepare preface for proceedings
-
- * [PC chairs] arrange WS programme, publish on web pages
-  - organise (invited) keynote (+ maybe more invited talks)
-  - publish WS programme on web page (+ separate page with abstracts) 
-
- * advertise for participation
-
  * run the workshop
-  - organise session chairs
+  - [Mary] organise session chairs
   - prepare posters with programme for the room
-  - arrange video recording, if any
+  - [Jost, ?] arrange video recording, if any
   - organise for photos (+ publish on web pages)
 
  * Prepare chairing FHPC 2015
-  - search for volunteers
+  - search for volunteers (before or during FHPC 2014)
   - bundle and sanitise repository to pass it on 
   - give access to google site (and maybe repository)
 
 Tasks already DONE or now past
 ------------------------------
+
+ * [Mary,Ryan] PC member list
+  - Add the rest of the PC to easychair (see pc_emails.txt)
+  - Send PCs cfp directly to invite submissions from peers
+
+ * [Mary, Ryan] 
+  - Handle submissions, organise refereeing, moderate PC discussions
+
+ * [Mary, Jost] 
+  - send acceptance notifications, include author instructions for CR
+  - obtain instructions from publisher/WS chairs on Camera-Ready versions (CR) 
+  - monitor and check CR submissions (+shepherding)
+
+ * [Mary] prepare preface for proceedings
+
+ * [Mary] arrange WS programme
+  - organise invited keynote
+
+ * [Jost] publish programme on web pages
+  - publish accepted papers on web pages
+  - publish WS programme on web page (+ separate page with abstracts) 
 
  * [Mary,Ryan] PC member list
   - Add the rest of the PC to easychair (see pc_emails.txt)

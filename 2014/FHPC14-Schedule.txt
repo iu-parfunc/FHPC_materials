@@ -1,0 +1,122 @@
+-- FHPC 2014 schedule, chairs unconfirmed!
+
+Event: Workshop on Functional High-Performance Computing
+Short: FHPC
+Date: Sep 4, 2014
+
+Session: Welcome and Invited Talk
+Chair: Mary Sheeran
+Start: 09:00
+
+Talk: Chairs' Welcome to FHPC 2014
+Start: 09:00
+-- not sure whether we want Author/Affiliation
+-- Author: Jost Berthold
+-- Author: Mary Sheeran
+-- Author: Ryan Newton
+ 
+Talk: Parallel Program = Operator + Schedule + Parallel Data Structure (invited talk)
+Start: 9:05
+Author: Keshav Pingali 
+Affiliation: University of Texas at Austin
+
+Session: Coffee break
+Start: 10:00
+
+Session: Applications
+Chair: Clemens Grelck
+Start: 10:30
+Talk: Pension Reserve Computations on GPUs
+Start: 10:30
+Author: Christian Harrington
+Author: Nicolai Dahl
+Author: Peter Sestoft
+Author: David Raymond Christiansen
+Affiliation: IT University of Copenhagen
+Talk: Parallel Computation of Multifield Topology: Experience of Haskell in a Computational Science Application
+Start: 10:55
+Author: David Duke
+Author: Fouzhan Hosseini
+Author: Hamish Carr
+Affiliation: University of Leeds
+
+Session: Break
+Start: 11:20
+
+Session: Compilation I
+Start: 11:40
+Chair: Ryan Newton
+Talk: An efficient representation for lazy constructors using 64-bit pointers
+Start: 11:40
+Author: Georgios Fourtounis
+Author: Nikolaos Papaspyrou
+Affiliation: National Technical University of Athens
+Talk: Size Slicing - A Hybrid Approach to Size Inference in Futhark
+Start: 12:05
+Author: Troels Henriksen
+Author: Martin Elsman
+Author: Cosmin E.Oancea
+Affiliation: University of Copenhagen
+
+Session: Lunch
+Start: 12:30
+
+Session: Optimizing Compilation
+Start: 14:00
+Chair: DImitrios Vytiniotis
+Talk: Defunctionalizing Push Arrays
+Start: 14:00
+Author: Joel Svensson
+Author: Josef Svenningsson
+Affiliation: Chalmers University of Technology
+Talk: Fusing Filters with Integer Linear Programming
+Start: 14:25
+Author: Amos Robinson
+Author: Ben Lippmeier
+Author: Gabriele Keller
+Affiliation: University of New South Wales
+
+Session: Break
+Start: 14:50
+
+Session: Programming Patterns
+Start: 15:10
+Chair: Tiark Rompf
+Talk: Lazy Data-Oriented Evaluation Strategies
+Start: 15:10
+Author: Prabhat Totoo
+Author: Hans-Wolfgang Loidl
+Affiliation: Heriot-Watt University
+Talk: Group Communication Patterns for High Performance Computing in Scala
+Start: 15:35
+Author: Felix Hargreaves
+Author: Daniel Merkle
+Author: Peter Schneider-Kamp
+Affiliation: University of Southern Denmark
+
+Session: Tea break
+Start: 16:00
+
+Session: Compilation II (heterogeneous systems) and Concluding Discussion
+Start: 16:30
+Chair: Jost Berthold
+Talk: Native Offload of Haskell Repa Programs to GPGPU
+Start: 16:30
+Author: Hai Liu
+Author: Laurence Day
+Author: Neal Glew
+Author: Todd Anderson
+Author:  Rajkishore Barik
+Affiliation: Intel Labs
+Talk: LambdaJIT: A Dynamic Compiler for Heterogeneous Optimizations of STL Algorithms
+Start: 16:55
+Author: Thibaut Lutz
+Affiliation: University of Edinburgh
+Author: Vinod Grover
+Affiliation: NVidia Corporation
+Talk: Concluding discussion
+Start: 17:20
+-- Author: Jost Berthold
+-- Author: Mary Sheeran
+-- Author: Ryan Newton
+End: 17:30 
