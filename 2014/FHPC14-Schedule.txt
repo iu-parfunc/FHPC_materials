@@ -12,19 +12,19 @@ Talk: Chairs' Welcome to FHPC 2014
 Start: 09:00
 -- not sure whether we want Author/Affiliation
 -- Author: Jost Berthold
--- Author: Mary Sheeran
+Author: Mary Sheeran
 -- Author: Ryan Newton
  
-Talk: Parallel Program = Operator + Schedule + Parallel Data Structure (invited talk)
+Talk: Ziria: wireless programming for hardware dummies (invited talk)
 Start: 9:05
-Author: Keshav Pingali 
-Affiliation: University of Texas at Austin
+Author: Dimitrios Vytiniotis 
+Affiliation: Microsoft Research Cambridge
 
 Session: Coffee break
 Start: 10:00
 
 Session: Applications
-Chair: Clemens Grelck
+Chair: Ryan Newton
 Start: 10:30
 Talk: Pension Reserve Computations on GPUs
 Start: 10:30
@@ -45,7 +45,7 @@ Start: 11:20
 
 Session: Compilation I
 Start: 11:40
-Chair: Ryan Newton
+Chair: Clemens Grelck
 Talk: An efficient representation for lazy constructors using 64-bit pointers
 Start: 11:40
 Author: Georgios Fourtounis
@@ -63,7 +63,7 @@ Start: 12:30
 
 Session: Optimizing Compilation
 Start: 14:00
-Chair: DImitrios Vytiniotis
+Chair: Dimitrios Vytiniotis
 Talk: Defunctionalizing Push Arrays
 Start: 14:00
 Author: Joel Svensson
@@ -116,7 +116,7 @@ Author: Vinod Grover
 Affiliation: NVidia Corporation
 Talk: Concluding discussion
 Start: 17:20
--- Author: Jost Berthold
--- Author: Mary Sheeran
--- Author: Ryan Newton
+Author: Jost Berthold
+Author: Mary Sheeran
+Author: Ryan Newton
 End: 17:30 

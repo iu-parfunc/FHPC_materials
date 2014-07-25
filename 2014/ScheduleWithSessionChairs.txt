@@ -3,8 +3,8 @@ final discussion included. Ryan and Clemens have not replied yet. Yes from the o
 
 09:00 - 10:00 session 1
        	      Welcome and Invited Talk: 
-       	      Keshav Pingali:
-	      Parallel Program = Operator + Schedule + Parallel Data Structure
+       	      Dimitrios Vytiniotis:
+	      Ziria: wireless programming for hardware dummies
 	      session chair: Mary Sheeran
 10:00 - 10:30 coffee break
 10:30 - 11:20 session 2   Applications
@@ -15,7 +15,7 @@ final discussion included. Ryan and Clemens have not replied yet. Yes from the o
 	      Parallel Computation of Multifield Topology: Experience of Haskell in a
 	      Computational Science Application
 
-	      session chair: Clemens Grelck
+	      session chair: Ryan Newton
 	      
 11:20 - 11:40 break
 11:40 - 12:30 session 3	  Compilation I
@@ -25,7 +25,7 @@ final discussion included. Ryan and Clemens have not replied yet. Yes from the o
 	      Troels Henriksen, Martin Elsman and Cosmin E. Oancea:
 	      Size Slicing - A Hybrid Approach to Size Inference in Futhark
 
-	      session chair: Ryan Newton
+	      session chair: Clemens Grelck
 
 12:30 - 14:00 lunch
 14:00 - 14:50 session 4   Optimizing Compilation
