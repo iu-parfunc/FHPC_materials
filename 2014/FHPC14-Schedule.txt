@@ -1,4 +1,5 @@
--- FHPC 2014 schedule, chairs unconfirmed!
+-- FHPC 2014 schedule
+-- Also see http://sites.google.com/site/fhpcworkshops/fhpc-2014/programme-short
 
 Event: Workshop on Functional High-Performance Computing
 Short: FHPC

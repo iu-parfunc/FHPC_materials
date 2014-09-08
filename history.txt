@@ -1,0 +1,86 @@
+# These data are necessary in ICFP workshop proposals, and should be
+# collected and passed on over the years by the FHPC chair(s).
+
+PREVIOUS VERSIONS OF THE WORKSHOP:
+
+   Name                      : FHPC 2014
+   Dates                     : 09/2014, co-located with ICFP 2014
+   Location                  : Gothenburg, SE
+   Organizers                : Jost Berthold (general chair), 
+				Mary Sheeran, Ryan Newton (PC co-chairs)
+   Website                   : http://sites.google.com/site/fhpcworkshops/fhpc-2014
+   Number of submissions     : 11
+   Number of accepted papers : 10, and invited keynote by Dimitrios Vytiniotis
+                               (originally Keshav Pingali, who had to cancel)
+   Number of attendees       : fluctuating with max. 60 (48 registered)
+   Registration fee          : $200 (early reg.) -- day pass
+   Budget information        : handled by ACM
+
+   Name                      : FHPC 2013
+   Dates                     : 09/2013, co-located with ICFP 2013
+   Location                  : Boston
+   Organizers                : Clemens Grelck, Fritz Henglein (co-general chair), 
+				Umut Acar, Jost Berthold (PC co-chairs)
+   Website                   : http://hiperfit.dk/fhpc13.html
+   Number of submissions     : 14
+   Number of accepted papers : 8, and invited keynotes by Matthew Fluet
+                               and Manuel Chakravarty
+   Number of attendees       : ca 60
+   Registration fee          : $200 (early reg.) -- day pass
+   Budget information        : handled by ACM
+
+   Name                      : FHPC 2012
+   Dates                     : 09/2012, co-located with ICFP 2012
+   Location                  : Copenhagen
+   Organizers                : Clemens Grelck, Andrzej Filinski (PC co-chairs)
+   Website                   : http://hiperfit.dk/fhpc12.html
+   Number of submissions     : 15
+   Number of accepted papers : 9, invited keynote by Paul Kelly
+   Number of attendees       : 66
+   Registration fee          : $200 (early reg.) -- day pass
+   Budget information        : handled by ACM
+
+FHPC 2012 emerged from an earlier series of HIPERFIT workshops with 
+increasing visibility (see http://hiperfit.dk/workshops.html):
+
+
+   Name                      : 1st HIPERFIT workshop (internal)
+   Dates                     : May 25, 2011
+   Location                  : University of Copenhagen
+   Organizers                : HIPERFIT
+   Website                   : http://hiperfit.dk/workshops/1st-workshop.html
+   Number of submissions     : (internal and invited talks only)
+   Number of accepted papers : 7 talks
+   Number of attendees       : 60 (mostly partners and local students)
+   Registration fee          : free
+   Budget information        : ~500 EUR, covered by HIPERFIT
+
+   Name                      : 2nd HIPERFIT workshop: Mathematical Finance 
+                               meets Programming Languages and Systems
+   Dates                     : December 1-2, 2011
+   Location                  : University of Copenhagen
+   Organizers                : HIPERFIT, in cooperation with 
+                               Copenhagen Finance IT Region (www.cfir.dk)
+   Website                   : http://hiperfit.dk/workshops/2nd-workshop.html
+   Number of submissions     : (invited talks only)
+   Number of accepted papers : 10 invited talks (international speakers)
+   Number of attendees       : 90 registered participants
+   Registration fee          : free
+   Budget information        : ~5,000 EUR (mainly travel expenses for
+                               invited speakers), covered by HIPERFIT
+
+   Name                      : Workshop on Functional Programming in 
+                               Quantitative Finance
+   Dates                     : April 20-22, 2012
+   Location                  : University of Chicago
+   Organizers                : Stevanovich Center for Financial Mathematics,
+                               U. Chicago, in cooperation with HIPEFIT
+   Website                   : http://stevanovichcenter.uchicago.edu/conferences/fp/Fun2.html
+   Number of submissions     : -
+   Number of accepted papers : 15 invited talks and tutorials 
+                               (international speakers)
+   Number of attendees       : ~110 registered participants
+   Registration fee          : free
+   Budget information        : handled by Stevanovich Center, covered by
+                               sponsoring, Stevanovich Center and HIPERFIT
+
